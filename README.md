@@ -12,19 +12,17 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+- Visual Tools
+- Python
+- Json library
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schoosl](https://www.w3schools.com/python/python_file_handling.asp)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/with-statement-in-python/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Do better research before getting into the programming
+* Write a more detailed plan and first draft
+* If something isn't working, figure out something else instead of wasting time trying to make it work.

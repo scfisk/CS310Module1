@@ -1,4 +1,4 @@
- [
+[
         {
         "Street Address": "1234 Home Street",
         "City": "Columbus",
@@ -13,26 +13,5 @@
         "Street Address": "6543 Sara Lane",
         "City": "Columbus",
         "Priority": "2"
-    }
-][
-    {
-        "Street Address": "1234 Home Street",
-        "City": "Columbus",
-        "Priority": "1"
-    },
-    {
-        "Street Address": "9876 House Place",
-        "City": "Westerville",
-        "Priority": "3"
-    },
-    {
-        "Street Address": "6543 Sara Lane",
-        "City": "Columbus",
-        "Priority": "2"
-    },
-    {
-        "Street Address": "9485 Nuss Court",
-        "City": "Westerville",
-        "Priority": "1"
     }
 ]
